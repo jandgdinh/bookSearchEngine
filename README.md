@@ -4,7 +4,7 @@
 
 
   ## Description
-  This application refactors a fully functioning Googgle Books API into a GraphQL API built with an Apollo server.
+  This application refactors a fully functioning Google Books API into a GraphQL API built with an Apollo server.
 
   ## Table of Contents
   - [Installation](#installation)
