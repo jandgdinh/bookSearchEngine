@@ -1,6 +1,6 @@
 import { BookDocument } from '../models/Book';
-import { User } from '../models/index';
-import { signToken, AuthenticationError } from '../services/auth';
+import { User } from '../models/index.js';
+import { signToken, AuthenticationError } from '../services/auth.js';
 
 
 interface IUser {
